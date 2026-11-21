@@ -13,3 +13,4 @@ Software Engineer passionate about building scalable backend applications and di
 🤖 Interested in integrating AI into software engineering
 
 📍 Pune, India
+<img width="2048" height="768" alt="4bfba379-1f6a-42e3-ace2-df7e94a243dc" src="https://github.com/user-attachments/assets/323d6ef3-a777-4232-b297-9c334afe0d23" />
